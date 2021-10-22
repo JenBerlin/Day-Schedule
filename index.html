@@ -10,6 +10,10 @@
         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+        integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js"></script>
     <title>Work Day Scheduler</title>
 </head>
 
@@ -19,12 +23,92 @@
         <p class="lead">A simple calendar app for scheduling your work day</p>
         <p id="currentDay" class="lead"></p>
     </header>
-    <div class="container">
+    <div class="time-block">
         <!-- Timeblocks go here -->
     </div>
+    <div class="row">
+        <tr>
+            <th id="time" class="hour">08AM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
 
+    <div class="row">
+        <tr class="row">
+            <th id="time" class="hour">09AM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
+
+    <div class="row">
+        <tr class="row">
+            <th id="time" class="hour">10AM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
+
+    <div class="row">
+        <tr class="row">
+            <th id="time" class="hour">11AM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
+
+    <div class="row">
+        <tr class="row">
+            <th id="time" class="hour">12PM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
+
+    <div class="row">
+        <tr class="row">
+            <th id="time" class="hour">01PM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
+
+    <div class="row">
+        <tr class="row">
+            <th id="time" class="hour">02PM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
+
+    <div class="row">
+        <tr class="row">
+            <th id="time" class="hour">03PM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
+
+    <div class="row">
+        <tr class="row">
+            <th id="time" class="hour">04PM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
+
+    <div class="row">
+        <tr class="row">
+            <th id="time" class="hour">05PM</th>
+            <input type="text" placeholder="to do">
+            <button class="saveBtn"><i class="fas fa-lock"></i></button>
+        </tr>
+    </div>
+   
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="script.js"></script>
 </body>
 
 </html>
