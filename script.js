@@ -14,3 +14,24 @@ setInterval(() => {
         }
     }
 }, 1000)
+
+function setText (){
+const localStorageHourData = JSON.parse(localStorage.getItem("hourlyData"))||[];
+    console.log(localStorageHourData)
+    const timeBlock = parseInt($(this).data("time"),10)
+    const plannedEvent = localStorageHourData[timeBlock]
+    $(this).find("textarea").text()
+}
+setText()
+
+function onClick(event){
+    const localStorageHourData = JSON.parse(localStorage.getItem("hourlyData"))||[];
+    const target = $(event.target)
+    console.log(target)
+}
+
+function runOnReady(){
+    $(".container").click(onClick)
+}
+
+$(window).ready(runOnReady)
