@@ -56,7 +56,7 @@ JS
 
 CSS
 
-Contains the syling for ...
+Contains the styling for ...
 
 - Body
 - textarea
