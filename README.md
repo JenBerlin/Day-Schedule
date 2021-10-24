@@ -71,6 +71,7 @@ Contains the styling for ...
 - saveBtn + hover
 
 **Screenshot**
+![Screen Shot 2021-10-24 at 13 32 05](https://user-images.githubusercontent.com/90558898/138592378-6142ef8d-e575-4086-b814-9d4dda3ef12c.png)
 
 **Repositery content and links**
 
