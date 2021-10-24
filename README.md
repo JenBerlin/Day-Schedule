@@ -8,29 +8,30 @@ On the GitHub page (Link) you will find a day schedule web application. The day 
 **##Requierments**
 Besides setting up an index.htlm, style.css and script.js file the following frameworks/APIs were requiered to include:
 
-*API: moment.js; https://momentjs.com/
-*Framework: Bootsstrap; https://getbootstrap.com/
-\*Framework: jQuery; https://jquery.com/
+- API: moment.js; https://momentjs.com/
+- Framework: Bootsstrap; https://getbootstrap.com/
+- Framework: jQuery; https://jquery.com/
 
 **##Building Structure\*\***
 
 HTML
 Head containes ...
-*Link to Bootsstrap
-*Link to GoogleFonts
-*Link to CSS style sheet
-*Link to FontAwesom
-*Link to to moment.js
-*Title
+
+- Link to Bootsstrap
+- Link to GoogleFonts
+- Link to CSS style sheet
+- Link to FontAwesom
+- Link to to moment.js
+- Title
 
 Body contains ...
 
-*Header as jumbotron: H1, p and the current day
-*Main div as class="time block"
-*10 time-block-divs
-*Link to jQuery
-*Link to to moment.js
-*Link to the script.js file
+- Header as jumbotron: H1, p and the current day
+- Main div as class="time block"
+- 10 time-block-divs
+- Link to jQuery
+- Link to to moment.js
+- Link to the script.js file
 
 JS
 
