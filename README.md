@@ -1,18 +1,22 @@
 # Homework-05-Schedule
 
-**##Content of this file**
+**##Content of this file\*\***
 
-**##Description**
+- Description
+- Requiremtns
+- Building Structure of the code
+
+**##Description\*\***
 On the GitHub page (Link) you will find a day schedule web application. The day shows a daily hour calender from 8:00 am to 5:00pm (business hours). In each row the user can and one or more asks, save them (button next to each row) and if the web page gets refreshed the tasks are still visible for the user. Rows/Textboxes in the past are marked in gray, row/textbox in the present is visible wit a red background color and rows/textboxes in the future are colored in green.
 
-**##Requierments**
+**##Requierments\*\***
 Besides setting up an index.htlm, style.css and script.js file the following frameworks/APIs were requiered to include:
 
 - API: moment.js; https://momentjs.com/
 - Framework: Bootsstrap; https://getbootstrap.com/
 - Framework: jQuery; https://jquery.com/
 
-**##Building Structure\*\***
+**##Building Structure of the code\*\***
 
 HTML
 Head containes ...
