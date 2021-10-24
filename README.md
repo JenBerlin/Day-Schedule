@@ -33,16 +33,16 @@ Body contains ...
 *Link to the script.js file
 
 JS
-\*Variable for moment
 
+- Variable for moment
 - Refering to the jumbotron for the current day
-  \*Fuction: setInterval
+- Fuction: setInterval
 - It goes through the time/moment comparing the value and sets a specific styling
-  \*Fuction: setText
+- Fuction: setText
 - Setting up/calling the local storage
-  \*Fuction: onClick event
+- Fuction: onClick event
 - Adding/Updating to the local storage
-  *Fuction: runOnReady
-  *Window method
+- Fuction: runOnReady
+- Window method
 
 CSS
