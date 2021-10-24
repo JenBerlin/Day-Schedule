@@ -5,6 +5,7 @@
 - Description
 - Requiremtns
 - Building Structure of the code
+- Screenshot
 - Repositery content and links
 
 **##Description\*\***
@@ -69,6 +70,8 @@ Contains the syling for ...
 - future
 - saveBtn + hover
 
+**Screenshot**
+
 **Repositery content and links**
 
 - index.html
@@ -77,5 +80,5 @@ Contains the syling for ...
 - README.md
 - Folder: ScreenShot
 
-GitHub: https://github.com/JenBerlin/Homework-04-Quiz
-GitHub Page: https://jenberlin.github.io/Homework-04-Quiz/
+- GitHub: https://github.com/JenBerlin/Homework-04-Quiz
+- GitHub Page: https://jenberlin.github.io/Homework-04-Quiz/
