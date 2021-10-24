@@ -82,5 +82,5 @@ Contains the styling for ...
 - README.md
 - Folder: ScreenShot
 
-- GitHub: https://github.com/JenBerlin/Homework-04-Quiz
-- GitHub Page: https://jenberlin.github.io/Homework-04-Quiz/
+- GitHub: https://github.com/JenBerlin/Homework-05-Schedule
+- GitHub Page: https://jenberlin.github.io/Homework-05-Schedule/
